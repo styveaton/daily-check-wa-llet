@@ -4,7 +4,7 @@ every mormning and night
 
 1- restart Domain controler (Gessiia server)
 2- restart all server 
-- 10.0.0.20 and restart the services
+- 10.0.0.20 and restart the services make sure the gateway is ok 
 - 10.0.0.15 and restart the services
 - 10.0.0.23 restart the services
 3-restart the databases (10.0.0.28) and test connexion
